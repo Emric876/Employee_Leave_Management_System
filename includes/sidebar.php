@@ -25,10 +25,10 @@ foreach($results as $result)
               
                 <ul class="sidebar-menu collapsible collapsible-accordion" data-collapsible="accordion">
                   
-  <li class="no-padding"><a class="waves-effect waves-grey" href="myprofile.php"><i class="material-icons">account_box</i>My Profiles</a></li>
-  <li class="no-padding"><a class="waves-effect waves-grey" href="emp-changepassword.php"><i class="material-icons">settings_input_svideo</i>Chnage Password</a></li>
+  <li class="no-padding"><a class="waves-effect waves-grey" href="myprofile.php"><i class="material-icons"></i>My Profiles</a></li>
+  <li class="no-padding"><a class="waves-effect waves-grey" href="emp-changepassword.php"><i class="material-icons"></i>Chnage Password</a></li>
                     <li class="no-padding">
-                        <a class="collapsible-header waves-effect waves-grey"><i class="material-icons">apps</i>Leaves<i class="nav-drop-icon material-icons">keyboard_arrow_right</i></a>
+                        <a class="collapsible-header waves-effect waves-grey"><i class="material-icons"></i>Leaves<i class="nav-drop-icon material-icons">keyboard_arrow_right</i></a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="apply-leave.php">Apply Leave</a></li>
@@ -46,7 +46,7 @@ foreach($results as $result)
                    
                 </ul>
                 <div class="footer">
-                    <p class="copyright"><a href="Emric Gibbs"> ELMS </a>©</p>
+                    <p class="copyright"><a href="Emric Gibbs"> ELMS </a>©PowerHouse Management Services</p>
                 
                 </div>
                 </div>
