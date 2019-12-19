@@ -129,10 +129,10 @@ $msg="Your Password succesfully changed";
                   
                 <ul class="sidebar-menu collapsible collapsible-accordion" data-collapsible="accordion" style="">
                     <li>&nbsp;</li>
-                    <li class="no-padding"><a class="waves-effect waves-grey" href="index.php"><i class="material-icons">account_box</i>Employe Login</a></li>
-                    <li class="no-padding"><a class="waves-effect waves-grey" href="forgot-password.php"><i class="material-icons">account_box</i>Emp Password Recovery</a></li>
+                    <li class="no-padding"><a class="waves-effect waves-grey" href="index.php"><i class="material-icons"></i>Employe Login</a></li>
+                    <li class="no-padding"><a class="waves-effect waves-grey" href="forgot-password.php"><i class="material-icons"></i>Emp Password Recovery</a></li>
                 
-                       <li class="no-padding"><a class="waves-effect waves-grey" href="admin/"><i class="material-icons">account_box</i>Admin Login</a></li>
+                       <li class="no-padding"><a class="waves-effect waves-grey" href="admin/"><i class="material-icons"></i>Admin Login</a></li>
                 
                 </ul>
           <div class="footer">
